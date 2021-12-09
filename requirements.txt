@@ -1,0 +1,5 @@
+fcn>=6.1.5
+numpy
+Pillow
+scipy
+tqdm
